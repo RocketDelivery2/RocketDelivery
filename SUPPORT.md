@@ -25,19 +25,3 @@ If you're experiencing technical difficulties:
 - Try accessing the platform using a different browser or device.
 
 For more information, please visit our [Help Center](https://rocketdelivery.example.com/help).
-
-For Postman:
-<div class="postman-run-button"
-data-postman-action="collection/fork"
-data-postman-visibility="public"
-data-postman-var-1="53940531-4f6ec7ae-3c43-4cd6-a335-b756bb0d498a"
-data-postman-collection-url="entityId=53940531-4f6ec7ae-3c43-4cd6-a335-b756bb0d498a&entityType=collection&workspaceId=f4e8ed10-1128-470f-b614-dcaca4f03d81"></div>
-<script type="text/javascript">
-  (function (p,o,s,t,m,a,n) {
-    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
-    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
-      (n = o.createElement("script")),
-      (n.id = s+t), (n.async = 1), (n.src = m), n
-    ));
-  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
-</script>
