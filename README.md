@@ -51,7 +51,7 @@ Today’s delivery landscape:
 
 Create a new logistics layer:
 
-- ⚡ 50–300 mile delivery in minutes  
+- ⚡ 50–300 mile delivery in minutes—establishing the foundation for longer-range, high-speed logistics as the platform scales.
 - 🛰️ Dedicated low-altitude airspace corridors  
 - 📦 Seamless integration with existing logistics networks  
 
