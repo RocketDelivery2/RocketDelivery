@@ -1,0 +1,27 @@
+# Support and Help Information
+
+## Overview
+Welcome to the support page for Rocket Delivery! Here you will find information to help you with any issues or questions you may encounter while using our services.
+
+## Contact Us
+If you need assistance, please reach out to our support team:
+- **Email:** support@rocketdelivery.example.com
+- **Phone:** 1-800-555-0199
+
+## FAQ
+### 1. How can I track my order?
+You can track your order by logging into your account and visiting the "Order History" section.
+
+### 2. What should I do if my order is delayed?
+Please contact our support team immediately if you notice a delay in delivery.
+
+### 3. How can I change my delivery address?
+You can change the delivery address by navigating to your account settings and editing your address details.
+
+## Technical Issues
+If you're experiencing technical difficulties:
+- Clear your browser cache and cookies.
+- Ensure your software is up to date.
+- Try accessing the platform using a different browser or device.
+
+For more information, please visit our [Help Center](https://rocketdelivery.example.com/help).
