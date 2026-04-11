@@ -6,7 +6,7 @@ If you discover a security vulnerability within this project, please take the fo
 
 1. **Confidentiality**: Please do not disclose your discovery publicly before we have had a chance to investigate and respond.
 
-2. **Contact**: Send an email to **security@rocketdelivery.com** with the subject line that includes the project name and a brief description of the issue.
+2. **Contact**: Send an email to **codingcowboy2026@gmail.com** with the subject line that includes the project name and a brief description of the issue.
 
 3. **Provide Details**: Include as much information as possible regarding the vulnerability, such as:
    - Description of the vulnerability
