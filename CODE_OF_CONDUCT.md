@@ -2,38 +2,45 @@
 
 ## Introduction
 
-This Code of Conduct outlines our expectations for participants within the RocketDelivery community, as well as the consequences for unacceptable behavior.
+This Code of Conduct outlines our values and expectations for the RocketDelivery community. We're building something ambitious together, and we want everyone to feel welcome and valued.
 
-We are committed to providing a welcoming and inspiring community for all. We hold ourselves to a high standard of conduct, and we expect all members to do the same.
+We're committed to creating a friendly, inclusive community where people can collaborate, learn, and grow together.
 
-## Our Standards
+## Our Values
 
-Examples of behavior that contributes to a positive environment include:
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+We welcome and encourage:
+- Curiosity and bold ideas
+- Friendly, respectful conversation
+- Learning from different perspectives
+- Constructive feedback and discussion
+- Helping each other succeed
 
-Conversely, examples of unacceptable behavior by participants include:
-- The use of sexualized language or imagery and unwelcome sexual attention or advances
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or electronic address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+## What We Ask
 
-## Enforcement Responsibilities
+We ask that community members:
+- Be respectful and kind to one another
+- Listen with an open mind
+- Assume good intentions
+- Give others the benefit of the doubt
+- Reach out if something doesn't feel right
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+## Not Welcome
 
-## Scope
+We don't tolerate:
+- Harassment or sustained abuse of other community members
+- Hate speech or discrimination
+- Sexual harassment or unwelcome advances
+- Sharing someone's private information without consent
 
-This Code of Conduct applies to all RocketDelivery community spaces, both online and offline.
+## How We Handle Issues
 
-## Consequences for Unacceptable Behavior
+If there's a problem:
+1. **First time?** We'll have a conversation. Mistakes happen.
+2. **Ongoing behavior?** We'll work with you to find a better way forward.
+3. **Serious or repeated violations?** We may need to ask you to take a step back.
 
-Unacceptable behavior from any community member will not be tolerated. If a participant engages in unacceptable behavior, project maintainers may take any action they deem appropriate, up to and including expulsion from the community.
+We believe in giving people chances to learn and do better.
 
-## Contact Information
+## Questions or Concerns?
 
-If you have questions about this Code of Conduct, please contact the maintainers of the RocketDelivery project.
+If you have questions about this Code of Conduct or see something that concerns you, please reach out to the maintainers. We're here to help.
