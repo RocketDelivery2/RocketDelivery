@@ -1,8 +1,10 @@
 ---
 name: Feature Request
-description: Suggest an idea for a new feature
+about: Feature Request
 title: "[FEATURE]"
-labels: ["feature request"]
+labels: enhancement
+assignees: RocketDelivery2
+
 ---
 
 ## Description
