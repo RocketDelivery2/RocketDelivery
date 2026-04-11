@@ -416,3 +416,21 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# App secrets
+appsettings.Development.json
+appsettings.*.local.json
+
+# Logs
+*.log
+logs/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Angular / frontend builds
+dist/
+
+# Docker overrides
+docker-compose.override.yml
