@@ -5,8 +5,8 @@ Welcome to the support page for Rocket Delivery! Here you will find information 
 
 ## Contact Us
 If you need assistance, please reach out to our support team:
-- **Email:** support@rocketdelivery.example.com
-- **Phone:** 1-800-555-0199
+- **Email:** codingcowboy2026@gmail.com
+- **Phone:** (517) 719 - 0029
 
 ## FAQ
 ### 1. How can I track my order?
