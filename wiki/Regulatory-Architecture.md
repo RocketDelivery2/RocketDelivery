@@ -1,4 +1,4 @@
-# 🇺🇸 RocketDelivery — Regulatory Architecture
+# RocketDelivery — Regulatory Architecture
 
 > **Designing a compliant path to rocket-powered logistics in U.S. airspace.**
 
