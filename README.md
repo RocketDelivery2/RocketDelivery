@@ -1,5 +1,7 @@
 # 🚀 RocketDelivery
 
+![Rocket Delivery pneumatic delivery concept](assets/rocket-delivery-pneumatic-portal.jpg)
+
 **The future of logistics—delivered at rocket speed.**
 
 RocketDelivery is a next-generation logistics platform using **FAA-certified micro-rockets** to deliver mail and small payloads in **minutes, not hours**.
@@ -10,13 +12,17 @@ RocketDelivery is a next-generation logistics platform using **FAA-certified mic
 
 ## 💡 The Idea
 
-Imagine the pharmacy drive-thru tube system:
+RocketDelivery started with a simple physical idea: the **pneumatic delivery tube**.
 
-You send something → it arrives instantly.
+At a bank or pharmacy drive-thru, a secure capsule is loaded at one end, pulled rapidly through a dedicated path, and delivered directly to the other end. The experience is fast, point-to-point, simple, and purpose-built.
 
-Now remove the tube.
+RocketDelivery takes that same mental model into the open air:
 
-Replace it with **precision-guided micro-rockets**.
+**Load a secure capsule → launch → precision route → controlled delivery.**
+
+Instead of a fixed pneumatic tube, the delivery path becomes a software-defined air corridor. Instead of vacuum pressure moving the capsule, **precision-guided micro-rockets** move time-critical payloads across much longer distances.
+
+The pneumatic tube is the inspiration. The rocket is the transport layer.
 
 ---
 
