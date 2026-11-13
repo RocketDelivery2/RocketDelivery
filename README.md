@@ -1,6 +1,6 @@
 # 🚀 RocketDelivery
 
-![Rocket Delivery pneumatic delivery concept](assets/file_00000000650c81fb807de527119ab036.jpg)
+![Rocket Delivery pneumatic delivery concept](file_00000000650c81fb807de527119ab036.jpg)
 
 **The future of logistics—delivered at rocket speed.**
 
